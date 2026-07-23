@@ -1,3 +1,4 @@
+# CS 11A HOS03A - Python Basics Exercise
 name = input("Enter your name: ")
 
 age = input("Enter your age: ")

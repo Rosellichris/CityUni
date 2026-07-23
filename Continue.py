@@ -1,3 +1,4 @@
+# CS 11A HOS03A - Python Basics Exercise
 for number in range(1, 10):
     if number == 5:
         continue

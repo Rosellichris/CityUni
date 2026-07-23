@@ -1,3 +1,4 @@
+# CS 11A HOS03A - Python Basics Exercise
 # CS 11A PE02 - Binary Search
 # Name: Chris Rosselli
 

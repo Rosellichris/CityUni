@@ -1,3 +1,4 @@
+# CS 11A HOS03A - Python Basics Exercise
 quantity = input("Enter the number of items: ")
 
 price = 5
