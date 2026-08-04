@@ -24,3 +24,12 @@ first_owned = motorcycles.pop(0)
 
 # Prints the first removed motorcycle
 print("The first owned motorcycle is a", first_owned)
+
+# Creates a new list
+motorcycles = ["Honda", "Yamaha", "Suzuki", "Ducati"]
+
+# Removes Ducati by value
+motorcycles.remove("Ducati")
+
+# Prints the updated list
+print(motorcycles)
